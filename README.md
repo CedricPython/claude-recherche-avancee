@@ -84,10 +84,10 @@ Recherches/Business/Mon-Sujet-20251228/
 
 ## Mode Ultrathink
 
-Pour une réflexion très approfondie, ajoutez `ultrathink` au début :
+Pour une réflexion très approfondie, ajoutez `ultrathink` après la commande :
 
 ```
-ultrathink /recherche Analyse approfondie du marché
+/recherche ultrathink Analyse approfondie du marché
 ```
 
 ## Licence
