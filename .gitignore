@@ -1,0 +1,32 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Fichiers de recherche générés (volumineux)
+# Décommentez si vous ne voulez pas versionner les recherches
+# Recherches/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+nul
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Plans Claude (temporaires)
+.claude/plans/
